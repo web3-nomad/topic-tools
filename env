@@ -1,0 +1,4 @@
+export HEDERA_NETWORK=testnet
+export OPERATOR_ID=".. yours goes here"
+export OPERATOR_SEED=".. yours goes here ..."
+export TOPIC_ID="0.0.5700596"
